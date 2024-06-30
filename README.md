@@ -18,7 +18,7 @@ pip install -r 'requirements.txt'
 - Download model to `checkpoints` folder: [This link](https://github.com/lltlien/vocal-to-piano-transcription/releases/tag/latest)
 
 ## Usage
-1. Open `getvocals.py` file and change link to your audio file, run folowing command to get vocal from music song (store in `vocals` folder):
+1. Open `getvocals.py` file and change link to your audio file, run following command to get vocal from music song (store in `vocals` folder):
 ```bash
 $ python3 getvocals.py
 ```

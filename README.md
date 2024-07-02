@@ -28,8 +28,3 @@ $ python3 getvocals.py
 $ python3 infer.py "your-vocal-audio-path"
 ```
 3. Download [Muse Score](https://musescore.org/vi/download) to convert `.mid' to music sheet.
-   
-## References :
-
-- *A Phoneme-Informed Neural Network Model for Note-Level Singing Transcription: [paper](https://arxiv.org/abs/2304.05917)*
-- *Pseudo-Label Transfer from Frame-Level to Note-Level in a Teacher-Student Framework for Singing Transcription from Polyphonic Music: [paper](https://ieeexplore.ieee.org/document/9747147)*
